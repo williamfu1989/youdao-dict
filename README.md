@@ -1,0 +1,1 @@
+#Youdao dict console version.
